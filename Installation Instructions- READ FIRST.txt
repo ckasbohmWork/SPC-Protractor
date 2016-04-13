@@ -1,0 +1,4 @@
+1. Install node-v4.4.2-x64 by double clicking and following the prompts
+2. Once Node.js is installed - open a command prompt and type the command "npm install protractor -g" this will install a global instance of Protractor on your local
+3. Navigate to the config files folder and edit the Selenium Grid address, SauceLabs login info, driver location, and test script name to match your current framework.
+4. Open command prompt and type "protractor run conf.js" where conf.js is the name of your config file
